@@ -23,7 +23,7 @@ Go forward slowly, and pick off as many as you can from a distance.  Take advant
 
 On a side note **@#$@ the captains**.
 
-Finally, when crossing some of the bridges, you're going to get booped.  For those of you who don't know what booped is, it's a technical term:
+Finally, when crossing some of the bridges, you're going to get booped by a Centurion.  For those of you who don't know what booped is, it's a technical term:
 ```
 booped: Getting knocked in the air when it is most inconvienent, and in a way to cause the most swearing.
 
