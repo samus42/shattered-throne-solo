@@ -12,6 +12,7 @@ Still with me? Good, here are things you're going to need:
 * Your alchohol locked up.  Trust me on this, nothing good will come from having liquor handy here.
 * Blessings of your priest, rabbi, imam, whatever.  Bonus points if you explain what its for.
 * Extreme stubborness.
+* Heavy Ammo Finder & Special Ammo Finder.  And if possible the Please Drop Either But Please Not Primary Ammo Finder.
 
 **Note** you do not need to complete this in one day.  There are checkpoints where you can come back to if you leave.  Dying is ok too (because it's going to happen a lot).
 
