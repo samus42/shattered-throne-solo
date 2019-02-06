@@ -1,5 +1,5 @@
 # Running the Shattered Throne....Solo
-*A guide by an idiot, for other idiots that want to try this*
+*A guide by an idiot (SamusDarkthorn), for other idiots that want to try this*
 
 So you're at light level 650, you've forged everything, and you look around at what challenges could be left.  Paging through the triumphs, one just pops out at you, **solo-nely**, do the Shattered Throne solo.
 
