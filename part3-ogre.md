@@ -9,7 +9,7 @@ You should expect to die alot, in fact for your first day of this, I recommend n
 
 But before we get started one side note on...
 ## YouTube videos 
-If you're going to watch a YouTube video on this section, you need to realize something.  It's bullshit.  In the videos, the Wizards don't move very much, the enemies line up, and the Ogre stays still in the damage phase.  Now I'm not saying their fake, but a lot of them are from early on and things have changed.  Either that or the streamers got REALLY lucky.  Things are not going to go that well fo you here.
+If you're going to watch a YouTube video on this section, you need to realize something.  It's bullshit.  In the videos, the Wizards don't move very much, the enemies line up, and the Ogre stays still in the damage phase.  Now I'm not saying they're fake, but a lot of them are from early on and things have changed.  Either that or the streamers got REALLY lucky.  Things are not going to go that well fo you here.
 
 But here we go.
 
@@ -43,7 +43,7 @@ At this point in time, you'll need to bounce between the two spots, wiping out t
 
 When the East Wizard pops out in the eastern corridor, you can usually take down the shield from the stairs without getting hit to hard.  Take these opportunities to whittle down it's health (do NOT kill).
 
-You should also start looking for opportunities to snipe the Taken on the Western side.  However they move all over the place, and the Goblins are obsessed with sheilding someone.  The Vandals pop shields like M&Ms.  So when you get a shot, take it quickly.  At times you can drive the South Wizard back behind cover and come out a bit to try to get an angle.  But basically this is an exercise in patience.  You do not want more than one normal Taken on the west side when you start your run. 
+You should also start looking for opportunities to snipe the Taken on the Western side.  However they move all over the place, and the Goblins are obsessed with shielding someone.  Or something.  I seriously think I saw then shield a rock when I elminated the rest of the Taken in the area.  The Vandals pop shields like M&Ms.  So when you get a shot, take it quickly.  At times you can drive the South Wizard back behind cover and come out a bit to try to get an angle.  But basically this is an exercise in patience.  You do not want more than one normal Taken on the west side when you start your run. 
 
 You're probably not going to get enough shots on the Western Wizard to bring down the shield, so save your ammo.
 
@@ -52,11 +52,11 @@ Bring down the Southern Wizard, and try to do it when it's as south as possible,
 
 You might think you can mirror what you did on the Eastern side here, but the Wizard is farther back, has more cover, and frankly is just jerk who will keep retreating when you hit it.  This is where the Hammerhead comes in, it takes town the Wizard pretty quick and keeps it from retaliating.  If there are other normal Taken left, wipe them out quick.  
 
-**Sprint to the orb then cover**.  The Ogre has a lot of angles to beat you with here.  Take a breath, then go for the Northern Wizard.
+**Sprint to the orb then to cover, any cover**.  The Ogre has a lot of angles to beat you with here.  Take a breath, then go for the Northern Wizard.
 
-The problem is, there's going to be a few normal Taken here as well, shielding and sniping.  This is where you will want to use your super.  For Hunters, a tether will wipe everyone out quick, especially when the Wizard shield explodes.  For Warlocks, Chaos Reach is dangerous as the Ogre isn't going to just ignore you, so Tickle Fingers or Nova Bomb is probably better.  Titans, once again it's Hammer Time.
+The problem is, there's going to be a few normal Taken here as well, shielding and sniping.  This is where you will want to use your super.  For Hunters, a tether will wipe everyone out quick, especially when the Wizard's shield explodes.  For Warlocks, Chaos Reach is dangerous as the Ogre isn't going to just ignore you, so Tickle Fingers or Nova Bomb is probably better.  Titans, once again it's Hammer Time.
 
-At this point, the Eastern Wizard is all that's left, and if you payed attention earlier, it's all alone with hardly any health.  So you can take your time getting over there, getting behind cover, and finishing it off.
+At this point, the Eastern Wizard is all that's left, and if you paid attention earlier, it's all alone with hardly any health.  So you can take your time getting over there, getting behind cover, and finishing it off.
 
 ## Ogre Time
 Ok, to be clear.  The Ogre is a dick.  There is nothing about this DPS stage that will come easy.  Even activating it.  In fact you can die activating it.  Because this game hates us.
@@ -77,14 +77,14 @@ Sounds straightforward(ish) right?
 
 ## Why it's not straightforward
 ### Getting Checkmated
-While the Eastern Wizard isn't usually too bad.  It will sometimes comes into the Alley the same time the Southern Wizard comes to it's eastmost point.  You're pretty much checkmated at this point.  There is nowhere to run as the Ogre is waiting for you to break cover.  Your best best is to unload into a Wizard and try to get it to duck back into cover while dodging left and right.  A Titan wall might save you here though.  
+While the Eastern Wizard isn't usually too bad.  It will sometimes comes into the Alley the same time the Southern Wizard comes to it's eastmost point.  You're pretty much checkmated at this point.  There is nowhere to run as the Ogre is waiting for you to break cover.  Your best bet is to unload into a Wizard and try to get it to duck back into cover while dodging left and right.  A Titan wall might save you here though.  
 
 ### The @#$%ing Ogre
 His boops can just start pinning you, and push you into a firing lane for the Taken to finish you off.  And the Ogre will ALWAYS stay right on top of you.  It does not wander off, it does not get peckish and want a snack.  It wants to kill you.  Now.
 
 If you get hit by the Ogre, your best defense is to jump.  The Ogre will continue to shoot below you, then track you up high as you're dropping.  You should be able to get back into cover.  But you always want to make sure you're hugging it, any daylight and the Ogre will blow you out into the open.
 
-Oh, and in DPS, the Ogre will dance.  And it might start with a bopping stream to completely knock you around.  And the Axion Bolts explode when you shoot them causing you more damage.
+Oh, and in DPS, the Ogre will dance.  And it might start with a bopping stream to completely knock you around.  And the Axion Bolts explode when you shoot them causing you more damage if they're close.
 
 ### Getting Checkmated Part 2
 The Taken Goblins can fill the Alley with invincible snipers, and there isn't anything you can do about it.  You'll need to run from cover to cover and hope the snipers decide to break away.  
@@ -93,7 +93,7 @@ The Taken Goblins can fill the Alley with invincible snipers, and there isn't an
 They will have lots of areas to hide in, and the game cheats and lets them know when you're aiming at them.  Causing Vandal shields galore.  Oh, and they're not scared of sniping you from behind the Ogre's shield.  And BTW, when you see one of the Taken is exposed for a snipe, the Southern Wizard will usually block your shot.  So you have a window of 1.5 seconds.
 
 ### 40 seconds is a long time, except when it isn't
-You'll feel the timer the most when going after the Western Wizard.  You'll take 10-12 seconds just getting to the other side then recovering from being there.  If you don't have a good solution for the shield, you'll be exposed for a bit as the Ogre can blast away.  You'll want to keep moving as much as possible while hammering the Wizard.  
+You'll feel the timer the most when going after the Western Wizard.  You'll take 10-12 seconds just getting to the other side then recovering from the trip.  If you don't have a good solution for the shield, you'll be exposed for a bit as the Ogre can blast away.  You'll want to keep moving as much as possible while hammering the Wizard.  
 
 ### You're going to have to take hits
 To be able to clear out some of the adds, you're going to have to take some hits.  You'll need to learn to judge just how many.
@@ -107,4 +107,4 @@ This is a long, grueling slog.  And you can't really make mistakes.  And then yo
 ## I did it!
 Congrats!  This was the most frustrating part of the Shattered Throne.  At this point if you're a normal person, it's Thursday or Friday, so you have the weekend to finish it off.
 
-After your break, head over to [Part 5 - I have to go up now?](./part4-climb.md)
+After your break, head over to [Part 5 - I have to go up now?](./part4-climb.html)

@@ -9,7 +9,7 @@ Having long distance weapons is helpful here, the forge sniper rifle is incredib
 Defense is what you're thinking here.  As a Hunter, Way of the Trapper gives you defensive tethers and the ability to disappear.  Warlocks should make use of their rifts, but if you're going to go for an offensive super, then use something you can hit with from a distance like Nova Bomb or Chaos Reach.  Using a well for pure defense isn't a bad choice either.  Titan, hammers are probably the way to go here, though a bubble Titan isn't terrible either.  You just lose the ability to kill while being inside.
 
 ## Making your way through the puzzle
-You have a map right?  I mean you weren't dumb enough to come into this place without....fine, [here's a map]().  
+You have a map right?  I mean you weren't dumb enough to come into this place without....fine, [here's a map](https://imgur.com/a/zzJW1qF).  
 
 There's going to be a couple of things happening that you might not have noticed too much when you were running with a fireteam.
 

@@ -9,7 +9,7 @@ Still with me? Good, here are things you're going to need:
 * Someone who loves you nearby that will tell you it's all ok.  It's not, they're lying, but it's nice to hear.
 * A space where you can curse.  Often and loudly.
 * Snacks.  There will be stress eating.
-* Your alchohol locked up.  Trust me on this, nothing good will come from having liquor handy here.
+* Your alcohol locked up.  Trust me on this, nothing good will come from having liquor handy here.
 * Blessings of your priest, rabbi, imam, whatever.  Bonus points if you explain what its for.
 * Extreme stubborness.
 * Heavy Ammo Finder & Special Ammo Finder.  And if possible the Please Drop Either But Please Not Primary Ammo Finder.

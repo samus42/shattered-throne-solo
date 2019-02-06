@@ -18,7 +18,7 @@ For your loadout, you want as much long range as you can get.  There's only one 
 ## The first drop
 Make sure you drop on that first rock outcropping on the left, then shoot the invisible Taken Minotaur from up top.  Feel free to potshot the other Taken as well, but they're slightly easier to hit once you drop down after eliminating the invisible Minotaur.
 
-Immediately pull out your sniper rifle and shift to the left.  Take out everyone you can see.  There will be some Taken that will shield, so you'll have to wait them out.  There's also another invisible guy up there, so try to take it out as well.
+Immediately pull out your sniper rifle and shift to the left.  Take out everyone you can see, yes including the Taken Paperboy.  He knew the risks.  There will be some Taken that will shield, so you'll have to wait them out.  There's also another invisible guy up there, so try to take it out as well.
 
 ## Hallway to the staircase
 Look carefully at all the rocks and alcoves here, you'll going to make use of it.  Make your way up the staircase then IMMEDIATELY turn right and start shooting.  There is a Centurion there.  
@@ -46,7 +46,7 @@ Pick a side, and start inching up to the doorway, as soon as you see a knight st
 
 While the Knights are filling the door with fire, start sniping everything else you can see.  The distant ones won't return fire, so it's pretty much a shooting gallery.  Feel free to cackle some more.
 
-Now you actually do have to deal with the knights.  You might think it's a good idea to jump over the fire an engage, but that way lies madness and doing the whole first section of this again.  Try to stay wide and get as much of an angle as you can, but you might have to step in, shoot, then retreat.  If you're the impatient type, a carefully fired rocket can work here.
+Now you actually do have to deal with the knights.  You might think it's a good idea to jump over the fire and engage, but that way lies madness and doing the whole first section of this again.  Try to stay wide and get as much of an angle as you can, but you might have to step in, shoot, then retreat.  If you're the impatient type, a carefully fired rocket can work here.
 
 ## The Passage
 Now that you have a nice clear doorway, you can actually go through it and continue sniping everyone you see as you move along the passage.  Laughing manically the whole time.  Or until you run out of sniper ammo, then use your scout rifle.  Unless of course you ignored my advice and have a shotgun, in which case you deserve whatever death awaits you.

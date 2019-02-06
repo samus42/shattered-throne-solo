@@ -21,6 +21,6 @@ In fact, once you start down this road, it may never be ok again.
 
 But that is the cost of delusional greatness.
 
-If you're still willing to try, let's start with [What you need].(./what-you-need.html)
+If you're still willing to try, let's start with [What you need](./what-you-need.html)
 
 
