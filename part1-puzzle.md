@@ -13,7 +13,7 @@ You have a map right?  I mean you weren't dumb enough to come into this place wi
 
 There's going to be a couple of things happening that you might not have noticed too much when you were running with a fireteam.
 
-First off, enemies are going to spawn in behind you, so turn your sound up and don't move forward to fast.  As soon as they spawn, turn around, should "I SEE YOU!" and wipe them out cackling gleefully.  Its really the only bit of pleasure you're going to get here.
+First off, enemies are going to spawn in behind you, so turn your sound up and don't move forward too fast.  As soon as they spawn, turn around, shout "I SEE YOU!" and wipe them out cackling gleefully.  Its really the only bit of pleasure you're going to get here.
 
 Secondly, when you're gone past halfway through the stations, a bunch of snipers are going to show up to make your life miserable.  Kind of like when your in-laws show up unaccounced.  Take them seriously (the snipers, not the in-laws).
 
